@@ -1,5 +1,4 @@
 # machine_learning
-Implementation of supervised learning, unsupervised learning, and reinforcement learning models.
 
 This file demonstrates how to implement linear regression. 
 Linear regression can be of two different types. The first one is simple linear regression, where there's one dependent and independent variable. The second one is multiple linear regression, where there's one dependent variable and multiple independent variables. We can use regression to predict the value of dependent variables or outcomes.
